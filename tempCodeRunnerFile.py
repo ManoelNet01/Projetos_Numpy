@@ -1,1 +1,1 @@
-copy
+areajogo[2,:] = PLAYER2
